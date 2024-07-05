@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emotion_react/static/css/main.0055b1df.css",
+    "main.js": "/emotion_react/static/js/main.5bd42b1d.js",
+    "index.html": "/emotion_react/index.html",
+    "main.0055b1df.css.map": "/emotion_react/static/css/main.0055b1df.css.map",
+    "main.5bd42b1d.js.map": "/emotion_react/static/js/main.5bd42b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0055b1df.css",
+    "static/js/main.5bd42b1d.js"
+  ]
+}
